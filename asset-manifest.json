@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/komut-tekno/static/css/main.7fb9bd25.chunk.css",
+    "main.js": "/komut-tekno/static/js/main.714d4a2c.chunk.js",
+    "main.js.map": "/komut-tekno/static/js/main.714d4a2c.chunk.js.map",
+    "runtime-main.js": "/komut-tekno/static/js/runtime-main.a5600e2d.js",
+    "runtime-main.js.map": "/komut-tekno/static/js/runtime-main.a5600e2d.js.map",
+    "static/js/2.2f38ee4c.chunk.js": "/komut-tekno/static/js/2.2f38ee4c.chunk.js",
+    "static/js/2.2f38ee4c.chunk.js.map": "/komut-tekno/static/js/2.2f38ee4c.chunk.js.map",
+    "index.html": "/komut-tekno/index.html",
+    "static/css/main.7fb9bd25.chunk.css.map": "/komut-tekno/static/css/main.7fb9bd25.chunk.css.map",
+    "static/js/2.2f38ee4c.chunk.js.LICENSE.txt": "/komut-tekno/static/js/2.2f38ee4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5600e2d.js",
+    "static/js/2.2f38ee4c.chunk.js",
+    "static/css/main.7fb9bd25.chunk.css",
+    "static/js/main.714d4a2c.chunk.js"
+  ]
+}
