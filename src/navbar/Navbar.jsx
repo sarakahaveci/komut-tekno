@@ -3,7 +3,7 @@ import "./Navbar.css";
 
 function Navbar() {
   return (
-    <>
+    <div>
       <div className="top">
         <div className="topCenter">
           <ul className="topList">
@@ -18,7 +18,6 @@ function Navbar() {
             <li className="topListItem"> Books</li>
             <li className="topListItem"> Fashion</li>
             <li className="topListItem"> Sports</li>
-          
           </ul>
         </div>
         <div className="topRight">
@@ -29,7 +28,7 @@ function Navbar() {
           />
         </div>
       </div>
-    </>
+    </div>
   );
 }
 

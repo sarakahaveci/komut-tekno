@@ -4,12 +4,12 @@ import Posts from "../../posts/Posts";
 
 function Home() {
   return (
-    <>
+    <div>
       <div className="home">
         <Header />
         <Posts />
       </div>
-    </>
+    </div>
   );
 }
 
