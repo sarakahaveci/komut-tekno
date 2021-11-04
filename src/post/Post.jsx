@@ -2,6 +2,7 @@ import "./Post.css";
 
 export default function Post() {
   return (
+    <div>
     <div className="post">
       <img
         className="postImg"
@@ -24,5 +25,6 @@ export default function Post() {
         atque, exercitationem quibusdam, reiciendis odio laboriosam?
       </p>
     </div>
-  );
+    </div>
+    );
 }
