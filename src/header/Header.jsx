@@ -19,6 +19,7 @@ function Header() {
        Smarter Save </span>
       <span> Smarter </span>
       <p>Get 10% off every month</p>
+      <button >Know More</button>
    </div>
     </div>
   );

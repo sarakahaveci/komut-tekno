@@ -33,16 +33,26 @@
   position: relative;
 }
 .text-on-image {
-  background-color: aliceblue;
+  background-color: rgb(211, 214, 216);
   color: rgb(66, 66, 66);
   position: absolute;
   text-decoration: solid;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size:30px;
-  right: 80%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+  right: 77%;
   left: 5%;
   bottom: 15%;
 }
-p{
-
+p {
+  background-color: white;
+  margin-top: 15px;
+  font-size: 20px;
+}
+.text-on-image > button {
+  margin-top: 10px;
+  background-size: 20px;
+  border-radius: 10px;
+  background-color: #ffff;
+  color: rgb(100, 100, 100);
+  text-align: center;
 }
