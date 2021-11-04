@@ -44,13 +44,14 @@
   bottom: 15%;
 }
 p {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   margin-top: 15px;
   font-size: 20px;
 }
 .text-on-image > button {
   margin-top: 10px;
-  background-size: 20px;
+  text-decoration: solid;
+  font-size: 15px;
   border-radius: 10px;
   background-color: #ffff;
   color: rgb(100, 100, 100);
